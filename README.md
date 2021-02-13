@@ -1,7 +1,7 @@
-@ Mascara de senha
+# Mascara de senha
 
-:: Esse código tem o objetivo de mascarar/substituir os caracteres digitado
+<p> Esse código tem o objetivo de mascarar/substituir os caracteres digitado
 no console(cmd/terminal) pelo carater especial  ' * ' (asterisco) usando a linguagem 
-de programação  C++.
+de programação  C++.</p>  
 
-Autor: Hudisson R Xavier.
+Autor[] Hudisson R Xavier.
