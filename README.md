@@ -1,6 +1,6 @@
 ---
 Title: Mascarar sem em cpp
-Author: Hudisson R Xavier.
+Author: Hudisson R Xavier
 
 ---
 ## Mascara de senha
